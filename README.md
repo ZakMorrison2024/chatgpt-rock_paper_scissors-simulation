@@ -1,1 +1,2 @@
-# chatgpt-rock_paper_scissors-simulation
+# Rock, Paper and Scissors Assimulatiom Simulation:
+- prompted into GPT.
